@@ -1,0 +1,64 @@
+{
+  "0": {
+    "name": "no_risk",
+    "description": "No major environmental or physiological imbalance detected.",
+    "remedies": [
+      "Maintain regular irrigation and farm hygiene",
+      "Continue balanced fertilization schedule",
+      "Monitor environmental conditions weekly"
+    ]
+  },
+  "1": {
+    "name": "fungal",
+    "description": "High humidity / cloud cover risk leading to fungal growth.",
+    "remedies": [
+      "Reduce irrigation and improve soil aeration",
+      "Apply white mustard paste at root zone",
+      "Drench with sesame + ash mixture (Vrikshayurveda)",
+      "Remove wet soil and replace with dry soil",
+      "Provide morning sunlight exposure"
+    ]
+  },
+  "2": {
+    "name": "microbial",
+    "description": "Warm + humid conditions may lead to microbial soft rot or infections.",
+    "remedies": [
+      "Apply Panchamula decoction as soil drench",
+      "Use Kunapa water to improve root immunity",
+      "Improve drainage and avoid water accumulation",
+      "Remove infected plant debris immediately"
+    ]
+  },
+  "3": {
+    "name": "viral",
+    "description": "High temperature + humidity + low wind increases viral spread risk.",
+    "remedies": [
+      "Water with mixture of milk + honey + yastimadhu + madhuka decoction",
+      "Apply Triphala + ghee + honey soil treatment",
+      "Provide shade nets during extreme heat",
+      "Control insect vectors (aphids, whiteflies)"
+    ]
+  },
+  "4": {
+    "name": "insect",
+    "description": "Warm + moderate humid conditions favour insect infestation.",
+    "remedies": [
+      "Use neem-based extract spray",
+      "Smoke field with mustard + vidanga + vacha + usana mixture",
+      "Apply root paste: white mustard + vacha + kusta + ativisha",
+      "Sprinkle ash + fine soil to deter caterpillars",
+      "Use cold-water drenching for 7 days to remove root insects"
+    ]
+  },
+  "5": {
+    "name": "vata",
+    "description": "Dry, cool and windy conditions causing Vata imbalance in plants.",
+    "remedies": [
+      "Apply Kunapa water regularly for moisture balance",
+      "Use organic mulching to retain soil moisture",
+      "Spray Panchamula decoction",
+      "Apply fermented mixture (hog fat + oils) described in Vrikshayurveda for severe Vata imbalance",
+      "Reduce wind exposure using natural barriers"
+    ]
+  }
+}
